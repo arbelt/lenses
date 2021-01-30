@@ -10,9 +10,6 @@ last_l
 }
 \description{
 Lens version of \code{x[[length(x)]]} and \code{x[[length(x)]] <- val}
-
-[[length(x)]: R:[length(x)
-[[length(x)]: R:[length(x)
 }
 \examples{
 x <- 1:10
